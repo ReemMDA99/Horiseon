@@ -27,12 +27,12 @@ In order for the webpage to meet accessibility standards:
 # Refracting Codes:
 1. HTML file:   
     -Add semnatic elements
-    - Remove the <div> elements and replace with <section>
-    -Add <main>, <article>, <aside>, <nav> elements to make it more organized.
+    - Remove the <div> elements and replace with 'section'
+    -Add main, article, aside, nav elements to make it more organized.
     -Sequencially arrange heading attributes.
-    -Add 'alt' attributes to the <img src> making it more  accessible.
+    -Add 'alt' attributes to the 'img src' making it more  accessible.
     -Add relative path urls to the images.
-    -Making the file organized by adding <header> and <footer> elements to the body.
+    -Making the file organized by adding 'header' and 'footer' elements to the body.
     -Make sure all urls are working without errors.
 
 2. CSS file:
@@ -88,9 +88,10 @@ SOFTWARE.
 
 Website image url:https://courses.bootcampspot.com/courses/1181/files/1326543/preview
 
-Webiste URL: file:///C:/Users/hp/Desktop/projects/Horiseon/Module-1-Challenge/index.html#social-media-marketing
+Webiste URL: https://reemmda99.github.io/Horiseon/
 
 Canvas bootcamp Module 1 Challenge: https://courses.bootcampspot.com/courses/1181/assignments/23346?module_item_id=458708
 
 Gitlab Challenge:https://utoronto.bootcampcontent.com/utoronto-bootcamp/UTOR-VIRT-BO-FSF-PT-02-2022-U-B/-/tree/main/01-HTML-Git-CSS/02-Challenge
 
+License : https://github.com/ReemMDA99/Horiseon/blob/main/LICENSE
