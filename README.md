@@ -1,8 +1,10 @@
 # Horiseon
-Project Title:
+#Project Title:
+
 HORISEON
 
 #Project Description:
+
 In this Project, a marketing agency has hired me to refactor an existing site to make it more accessible.I have to begin with starter code that needs to modify. 
 This project involves a very important aspect of web development which is "accessibility".
 Web accessibility is an increasingly important consideration for businesses. 
@@ -10,16 +12,19 @@ It ensures that people with disabilities can access a website using assistive te
 Making a website accessible is also good for business for many reasons, one of them being that accessible sites are better positioned in search engines like Google.
 It also helps companies avoid litigation that can occur when people with disabilities can't access their website.
 
-Table of Content:
+#Table of Content:
+
 -Search Engine Optimization:
 -Online Reputation Management
 -Social Media Marketing
 
-Project Aim:
+#Project Aim:
+
 -To impress clients by improving the codebase for long-term sustainability.
 -Make the code Cleaner to make it more readable to coders and accessible to users.
 
-Project Requirements:
+#Project Requirements:
+
 Acceptance Criteria
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
@@ -33,11 +38,13 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-Main use of the project:
+#Main use of the project:
+
 Making a website accessible is also good for business for many reasons, one of them being that accessible sites are better positioned in search engines like Google
 and to avoid litigation that can occur when people with disabilities can't access their website.
 
-License:
+#License:
+
 MIT License
 
 Copyright (c) 2022 Reem Mohammed Ahmed
@@ -61,7 +68,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-Project Source:
+#Project Source:
+
 image url: https://courses.bootcampspot.com/courses/1181/files/1326543/preview
 Webiste URL: file:///C:/Users/hp/Desktop/projects/Horiseon/Module-1-Challenge/index.html#social-media-marketing
 Canvas bootcamp Module 1 Challenge :https://courses.bootcampspot.com/courses/1181/assignments/23346?module_item_id=458708
