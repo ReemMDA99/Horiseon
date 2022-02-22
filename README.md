@@ -1,5 +1,3 @@
-# Horiseon
-
 # Project Title:
 HORISEON
 
