@@ -44,8 +44,12 @@ In order for the webpage to meet accessibility standards:
 5. Create .gitignore file for untracked files.
 
 6. Git Repository:
-    -Create a repository for the project.
-    -Clone the repository usinh git clone <link>
+    -This repository has a unique name.
+    -This repository follows best practices for file structure and naming conventions.
+    -This repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
+    -This repository contains multiple descriptive commit messages.
+    -This repository contains quality README file with description and link to deployed application.
+    -Clone the repository usinG git clone <link>
     -Use git add . after adding, deleting, changing files.
     -Use git commit -m "message" to commit the added files to repository.
     -Use git push origin main for pushing the commited files to main branch.
@@ -86,6 +90,7 @@ Website image url:https://courses.bootcampspot.com/courses/1181/files/1326543/pr
 
 Webiste URL: file:///C:/Users/hp/Desktop/projects/Horiseon/Module-1-Challenge/index.html#social-media-marketing
 
-Canvas bootcamp Module 1 Challenge:https://courses.bootcampspot.com/courses/1181/assignments/23346?module_item_id=458708
+Canvas bootcamp Module 1 Challenge: https://courses.bootcampspot.com/courses/1181/assignments/23346?module_item_id=458708
 
 Gitlab Challenge:https://utoronto.bootcampcontent.com/utoronto-bootcamp/UTOR-VIRT-BO-FSF-PT-02-2022-U-B/-/tree/main/01-HTML-Git-CSS/02-Challenge
+
