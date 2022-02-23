@@ -24,6 +24,10 @@ In order for the webpage to meet accessibility standards:
 -When a user view the title element then they  find a concise, descriptive title.
 -Ensure that all links are functioning correctly and clean up the CSS to make it more efficient, such as by consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
 
+# Languages:
+    - HTML5
+    -CSS
+    
 # Refracting Codes:
 1. HTML file:   
     -Add semnatic elements
