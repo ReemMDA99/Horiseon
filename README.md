@@ -27,7 +27,10 @@ In order for the webpage to meet accessibility standards:
 # Languages:
     - HTML5
     -CSS
-    
+
+# Image Screenshot
+![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/94458512/156044683-f59cc44d-7699-4300-85bd-9024a1e11d28.png)
+
 # Refracting Codes:
 1. HTML file:   
     -Add semnatic elements
